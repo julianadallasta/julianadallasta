@@ -20,16 +20,16 @@
    target="blank">
      <img align="center" 
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="julianafatsil"
+          alt="julianadallasta"
           height="30"
           width="40" />
 </a>
 <a 
-   href="https://instagram.com/julianafatsil"
+   href="https://instagram.com/julianadallasta"
    target="blank">
      <img align="center" 
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-          alt="julianafatsil"
+          alt="julianadallasta"
           height="30" 
           width="40" />
 </a>
@@ -215,16 +215,16 @@
 ## Meu status
 
 <div align="left">
-     <a href="https://github.com/julianafatsil">
+     <a href="https://github.com/julianadallasta">
      <img 
           height="165" 
           src="https://github-readme-stats.vercel.app/api?username=julianafatsil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img
          height="165"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=julianafatsil&theme=dracula"
-         alt="julianafatsil" />
+         src="https://github-readme-streak-stats.herokuapp.com/?user=julianadallasta&theme=dracula"
+         alt="julianadallasta" />
      <img 
           height="170" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafatsil&layout=compact&langs_count=7&theme=dracula"/>
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadallasta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
