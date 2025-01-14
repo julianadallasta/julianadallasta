@@ -9,14 +9,14 @@
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui! 
 </p>
 
-<p> 🚀📚 Educação e tecnologia é que que me move, sou apaixonada por esta combinação! Estou entrando também no universo de UX/UI, atualmente cursando o <a href="https://leandrorezende.unifast.com.br/mba-ux-design-3-l1/"/>MBA em UX Researh, Operação de Pesquisa & Liderança em Design. </a> Se gostar desses universos e quiser conversar sobre, me chama para um cafezinho!
+<p> 🚀📚 Educação e tecnologia é que que me move, sou apaixonada por esta combinação! Atualmente cursando o <a href="[https://www.rocketseat.com.br/faculdade?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=FTR&utm_content=publicofrio-lead-LP_FTR-texto-lead-kw-posgrad-none-techdeveloper360-none-none-br-meta&gad_source=1&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHwz1yvtIIy_0gCo4wqzHKBOSlV7yjG218jmkRDxESr_yT3TmyKQ4WcaAjs5EALw_wcB]"/>MBA Rocketseat Full-stack.</a> Se quiser conversar sobre, me chama para um cafezinho!
 </p>  
 </div>
 
  ## Contate me
 <p align="left">
 <a 
-   href="https://linkedin.com/in/julianafatsil" 
+   href="https://linkedin.com/in/julianadallasta" 
    target="blank">
      <img align="center" 
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
