@@ -15,32 +15,32 @@
 
  ## Contate me
 <p align="left">
-<a 
-   href="https://linkedin.com/in/julianadallasta" 
-   target="blank">
-     <img align="center" 
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="julianadallasta"
-          height="30"
-          width="40" />
-</a>
-<a 
-   href="https://instagram.com/juliana.dallasta"
-   target="blank">
-     <img align="center" 
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-          alt="juliana.dallasta"
-          height="30" 
-          width="40" />
-</a>
-<a 
-   href= "mailto:julianafatsil@gmail.com"
-   target="_blank">
-     <img align="center" 
-          src=https://img.shields.io/badge/Gmail-D14836?stylefor-the-badge&logo=gmail&logoColor=white
-          alt="julianafatsil@gmail.com"
-          height="30" 
-</a>
+     <a 
+        href="https://linkedin.com/in/julianadallasta" 
+        target="blank">
+          <img align="center" 
+               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+               alt="julianadallasta"
+               height="30"
+               width="40" />
+     </a>
+     <a 
+        href="https://instagram.com/juliana.dallasta"
+        target="blank">
+          <img align="center" 
+               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+               alt="juliana.dallasta"
+               height="30" 
+               width="40" />
+     </a>
+     <a 
+        href= "mailto:julianafatsil@gmail.com"
+        target="_blank">
+          <img align="center" 
+               src=https://img.shields.io/badge/Gmail-D14836?stylefor-the-badge&logo=gmail&logoColor=white
+               alt="julianafatsil@gmail.com"
+               height="30" 
+     </a>
 </p>
 
 ## Tecnologias
