@@ -217,13 +217,16 @@
      <a href="https://github.com/julianadallasta">
      <img 
           height="165" 
-          src="https://github-readme-stats.vercel.app/api?username=julianadallasta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+          src="https://github-readme-stats.vercel.app/api?username=julianadallasta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+     />
      <img
          height="165"
          src="https://github-readme-streak-stats.herokuapp.com/?user=julianadallasta&theme=dracula"
-         alt="julianadallasta" />
+         alt="julianadallasta" 
+     />
      <img 
           height="170" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadallasta&layout=compact&langs_count=7&theme=dracula"/>
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadallasta&layout=compact&langs_count=7&theme=dracula"
+     />
 </div>
 
