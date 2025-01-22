@@ -42,7 +42,7 @@
      </a>
 </p>
 
-## Tecnologias
+<h2> Tecnologias </h2>
 <div align="left">
      <a href="https://www.w3schools.com/css/"
         target="_blank" 
