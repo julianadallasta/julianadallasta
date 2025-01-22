@@ -16,7 +16,7 @@
 <p align="left">
      <a 
         href="https://linkedin.com/in/julianadallasta" 
-        target="blank">
+        target="_blank">
           <img align="center" 
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                alt="julianadallasta"
@@ -25,7 +25,7 @@
      </a>
      <a 
         href="https://instagram.com/juliana.dallasta"
-        target="blank">
+        target="_blank">
           <img align="center" 
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
                alt="juliana.dallasta"
