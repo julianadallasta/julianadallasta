@@ -1,11 +1,10 @@
 # Ola, boas vindas!! 🤘🏽
 <div>
-<img 
-     align="right"
-     style=""
-     width="40%"
-     src="https://github.com/julianafatsil/julianafatsil/blob/master/img/avatar.png?raw=true"
-     alt="Meu avatar, uma menina de óculos, cabelos pretos, fone de ouvido vermelho, com uma xícara com café na mão"/>
+     <img 
+          align="right"
+          width="40%"
+          src="https://raw.githubusercontent.com/julianadallasta/julianadallasta/refs/heads/master/img/avatar.png"
+          alt="Meu avatar, uma menina de óculos, cabelos pretos, fone de ouvido vermelho, com uma xícara com café na mão"/>
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui! 
 </p>
 
