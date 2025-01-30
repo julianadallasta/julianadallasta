@@ -6,10 +6,10 @@
           src="https://raw.githubusercontent.com/julianadallasta/julianadallasta/refs/heads/master/img/avatar.png"
           alt="Meu avatar, uma menina sorridenter de cabelos pretos, fone de ouvido vermelho, com uma xícara com café na mão"
      />
-     <p>✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui! 
-     </p>
-     <p>🚀📚 Educação e tecnologia é que que me move, sou apaixonada por esta combinação! Atualmente cursando o <a style="text-decoration: none;" href="https://www.rocketseat.com.br/faculdade?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=FTR&utm_content=publicofrio-lead-LP_FTR-texto-lead-kw-posgrad-none-techdeveloper360-none-none-br-meta&gad_source=1&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHwz1yvtIIy_0gCo4wqzHKBOSlV7yjG218jmkRDxESr_yT3TmyKQ4WcaAjs5EALw_wcB"/>MBA Rocketseat Full-stack.</a> Se quiser conversar sobre, me chama para um cafezinho!
-     </p>  
+✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui! 
+     
+🚀📚 Educação e tecnologia é que que me move, sou apaixonada por esta combinação! Atualmente cursando o  [MBA Rocketseat Full-stack](https://www.rocketseat.com.br/faculdade?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=FTR&utm_content=publicofrio-lead-LP_FTR-texto-lead-kw-posgrad-none-techdeveloper360-none-none-br-meta&gad_source=1&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHwz1yvtIIy_0gCo4wqzHKBOSlV7yjG218jmkRDxESr_yT3TmyKQ4WcaAjs5EALw_wcB). Se quiser conversar sobre, me chama para um cafezinho!
+      
 </div>
 
  ## Contate me
@@ -43,6 +43,7 @@
 ## Meu status
 
 <div align="left">
-     <a href="https://github.com/julianadallasta"> <img height="200" src="https://github-readme-stats.vercel.app/api?username=julianadallasta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadallasta&layout=compact&langs_count=7&theme=dracula" height="200"/></a>
+     <a href="https://github.com/julianadallasta"> <img src="https://github-readme-stats.vercel.app/api?username=julianadallasta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="200"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://github.com/julianadallasta"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadallasta&layout=compact&langs_count=7&theme=dracula" height="200"/></a>
 </div>
 
